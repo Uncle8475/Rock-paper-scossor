@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+ font-family: poppins, sans-serif;
+    background-color: #CAF0F8;;
+  }
+  #butt{
+    margin-top: 60px;
+   display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    margin-left:35%;
+    margin-right: 35%;
+    height: 100px;
+    padding-top: 50px;
+    border-radius: 20px;
+    background-color:#101820;
+    
+   
+   
+    
+  }
+  #butt button{
+   height: 50px;
+    width: 80px;
+    font-size: 2rem;
+    border: none;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    
+  }
+  #butt button:hover{
+    height:  55px;
+    width: 84px;
+    font-size: 2.5rem;
+    transition-duration: 0.5s;
+  }
+  #stone{
+    background-color: black;
+    
+  }
+#paper{
+  background-color: tomato;
+}
+#kenchi{
+  background-color: orange;
+}
+#usersc{
+  margin-top: 40px;
+}
+#compsc{
+   margin-top: 10px;
+  
+}
+#result{
+    margin-top: 10px;
+  font-size: 2rem;
+  color: green;
+  font-weight: 600;
+  text-shadow: 1px 0 17px;
+}
+#c1{
+    background-color:  #023E8A;
+}
+#c2{
+    background-color:  #0077B6 ;
+}
+#c3{
+    background-color: #FF9F1C ;
+}
